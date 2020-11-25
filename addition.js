@@ -1,3 +1,4 @@
 //this is addition program
-hi
-ji
+let a=9,b=6,sum=0;
+sum=a+b;
+console.log(sum)
